@@ -15,3 +15,7 @@ Welcome to WeatherApp, a cutting-edge and user-friendly weather prediction app. 
 ## Experience WeatherApp
 
 🌦️ **Explore the WeatherApp Demo: [Click Here](https://harshgakhre.github.io/WeatherApp/)** 🌈
+
+## Screenshoot
+
+![WeattherApp Screenshot01]

@@ -18,4 +18,4 @@ Welcome to WeatherApp, a cutting-edge and user-friendly weather prediction app. 
 
 ## Screenshoot
 
-![WeattherApp Screenshot01]
+![WeattherApp Screenshot01](Screenshot-01.PNG)

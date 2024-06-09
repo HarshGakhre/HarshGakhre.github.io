@@ -1,8 +1,8 @@
-# WeatherVista - Interactive Weather App
+# WeatherApp
 
 ## Overview
 
-Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app. WeatherVista not only provides accurate weather forecasts but also offers an engaging and intuitive user experience.
+Welcome to WeatherApp, a cutting-edge and user-friendly weather prediction app. WeatherApp not only provides accurate weather forecasts but also offers an engaging and intuitive user experience.
 
 ### Features:
 
@@ -12,6 +12,6 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 - **Today's Highlights:** Stay informed about key weather highlights, including UV Index, Wind Status, Sunrise & Sunset, Humidity, Visibility, and Air Quality.
 - **Search Functionality:** Easily search for weather updates in any location globally.
 
-## Experience WeatherVista
+## Experience WeatherApp
 
-🌦️ **Explore the WeatherVista Demo: [Click Here](https://harshgakhre.github.io/WeatherApp/)** 🌈
+🌦️ **Explore the WeatherApp Demo: [Click Here](https://harshgakhre.github.io/WeatherApp/)** 🌈
